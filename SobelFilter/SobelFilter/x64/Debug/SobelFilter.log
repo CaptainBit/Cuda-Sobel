@@ -1,0 +1,9 @@
+﻿  SobelFilter.cpp
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(92): warning C4251: 'Axis::results' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(93): warning C4251: 'Axis::ErrorMsg' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(95): warning C4251: 'Axis::CamIpAdress' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(98): warning C4251: 'Axis::video_capture' : class 'cv::VideoCapture' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+  c:\opencv\build\include\opencv2\videoio.hpp(608): note: voir la déclaration de 'cv::VideoCapture'
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(99): warning C4251: 'Axis::UserName' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\users\usager\documents\visual studio 2015\projects\sobelfilter\sobelfilter\axiscommunication.h(100): warning C4251: 'Axis::Password' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+  SobelFilter.vcxproj -> C:\Users\usager\Documents\Visual Studio 2015\Projects\SobelFilter\x64\Debug\SobelFilter.exe
